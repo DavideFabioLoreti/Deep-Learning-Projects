@@ -9,17 +9,7 @@ Questo progetto utilizza tecniche di Deep Learning per la classificazione di tum
 
 Il dataset è organizzato in due parti principali (training e test), ciascuna divisa nelle seguenti classi:
 
-dataset/
-├── training/
-│   ├── glioma
-│   ├── meningioma
-│   ├── notumor
-│   └── pituitary
-└── test/
-    ├── glioma
-    ├── meningioma
-    ├── notumor
-    └── pituitary
+<pre> <code>```bash dataset/ ├── training/ │ ├── glioma │ ├── meningioma │ ├── notumor │ └── pituitary └── test/ ├── glioma ├── meningioma ├── notumor └── pituitary ```</code> </pre>
 
 [Scarica il dataset completo su Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
