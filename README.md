@@ -42,3 +42,5 @@ Scikit-learn
 
 Nel notebook troverai grafici dettagliati di accuratezza e perdita, una matrice di confusione e il report di classificazione che evidenziano la performance del modello.
 
+# CIFAR10
+Aggiunta file di modello di classificazione di cifar10, sono stati implementati 2 modelli, uno basico e il secondo più profondo.
