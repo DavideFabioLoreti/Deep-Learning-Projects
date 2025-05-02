@@ -1,4 +1,4 @@
-# Classificazione-dei-Tumori-Cerebrali-con-il-Deep-Learning
+# Classificazione dei Tumori Cerebrali con il Deep Learning
 Questo progetto utilizza tecniche di Deep Learning per la classificazione di tumori cerebrali attraverso immagini MRI. Il modello è in grado di distinguere quattro categorie:
 * Glioma
 * Meningioma
